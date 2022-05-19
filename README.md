@@ -8,3 +8,9 @@ Installing python
 
 
 Building a simple calculator
+
+
+## Day three
+
+
+Buiding a complex calculator using python
