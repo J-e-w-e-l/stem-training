@@ -4,5 +4,7 @@
 Learning markdown
 Installing python
 
-##day two
+## Day two
+
+
 Building a simple calculator
