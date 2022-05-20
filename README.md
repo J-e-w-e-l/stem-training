@@ -14,3 +14,12 @@ Building a simple calculator
 
 
 Buiding a complex calculator using python
+
+## Day four
+
+Control flow
+elifs
+while loops
+break,continue
+strings as lists
+nested lists(matrices)
