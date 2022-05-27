@@ -41,5 +41,6 @@ learnt range
  # Day nine
  
  learnt try,exept
+    try,exept in python to remove errors
  
  
