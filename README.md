@@ -42,5 +42,11 @@ learnt range
  
  learnt try,exept
     try,exept in python to remove errors
+    
+ # Day ten
+ read,write,append
+ OOP
+ class as a method
+ 
  
  
