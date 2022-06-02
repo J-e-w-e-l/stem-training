@@ -23,30 +23,43 @@ while loops
 break,continue
 strings as lists
 nested lists(matrices)
-# Day five
 
-learnt range
- #Day six
+  ## Day five
+ learnt range
+
+ ## Day six
  
  learnt lists,tuples and sets
  
- # Day seven
+ ## Day seven
  
  learnt functions such as .pop,.remove,.clear
  
- # Day eight
+ ## Day eight
  
  learnt dictionaries in python
  
- # Day nine
+ ## Day nine
  
  learnt try,exept
     try,exept in python to remove errors
     
- # Day ten
+ ## Day ten
  read,write,append
  OOP
  class as a method
+
+ ## Day eleven
+ Tkinter
+ GUI
+    Creating a frame
+    Showing it on screen
+    Buttons
+
+ ## Day twelve
+Revisiting dictionaries
+Pypi
+Import,from
  
  
  
